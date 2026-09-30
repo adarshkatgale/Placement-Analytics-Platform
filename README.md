@@ -82,7 +82,7 @@ Placement_Analytics_Platform/
 
 ### 1. Clone the repository
 ```bash
-git clone <https://github.com/adarshkatgale/Placement-Analytics-Platform.git>
+git clone https://github.com/adarshkatgale/Placement-Analytics-Platform.git
 ```
 ### 2. Open the project directory
 ```bash
